@@ -6,6 +6,7 @@
 <img alt="print código led piscando" src="print.png">
 
 ## Parte 2
+código Tinkercad
 ```
 void setup()
 {
